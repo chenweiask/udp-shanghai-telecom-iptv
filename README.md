@@ -1,3 +1,2 @@
-# shanghaiiptv
-shanghai dianxin iptv
-上海电信iptv单播
+# Shanghai Telecom IPTV list
+这是组播地址
